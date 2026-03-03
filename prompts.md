@@ -17,13 +17,19 @@ Include:
 
 Make it optimized for search intent.
 ## Prompt 2 – Long-Form Blog
-Using the above outline, write a 1200-word SEO-optimized blog post.
-Ensure:
-- Natural keyword placement
-- Clear headings
-- Actionable advice
-- Business-focused tone
-- Include CTA at end
+Write a 1000-word SEO-optimized blog post using the outline above.
+
+Include:
+- Introduction with hook
+- Statistics related to social media usage
+- Actionable advice for small businesses
+- Local Hyderabad relevance
+- Natural keyword integration
+- FAQ section
+- Internal linking suggestions
+- Strong business CTA
+
+Avoid generic content. Make it practical and business-focused.
 ## Prompt 3 – Content Cluster Strategy
 Generate 8 related blog topics for internal linking (content cluster).
 Primary topic: Social Media Marketing

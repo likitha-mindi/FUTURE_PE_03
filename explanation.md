@@ -21,6 +21,19 @@ Internal linking ideas help improve website authority and ranking potential.
 
 5. Conversion Focus
 CTA was added to convert readers into leads.
+## SEO Strategy Implemented
+
+1. Search Intent Alignment  
+Content answers informational + commercial intent.
+
+2. Local SEO Targeting  
+City name used strategically to improve geo-based ranking.
+
+3. Content Clustering  
+Supporting blog topics strengthen topical authority.
+
+4. Conversion Integration  
+CTA included to convert traffic into leads.
 ## Outcome
 The AI generated:
 - Structured SEO outline
